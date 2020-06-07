@@ -1,6 +1,8 @@
 # React-Recipe-App
 
-Demo - https://react-recipe-search5132bc.netlify.app
+Demo - https://react-recipe-search5132bc.netlify.app/
+
+
 Alternative Url - https://react-recipe-app-finder.herokuapp.com/
 ## Note
 
